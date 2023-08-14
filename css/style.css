@@ -315,7 +315,7 @@ a h4:hover {
 
 .section {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
 }
 
 .section-sm {
@@ -324,7 +324,7 @@ a h4:hover {
 }
 
 .section-title {
-  margin-bottom: 30px;
+  margin-bottom: 80px;
 }
 
 .bg-cover {
@@ -926,7 +926,7 @@ link:focus,
 /* teacher */
 .teacher-info {
   width: 70%;
-  bottom: 0;
+  bottom: -170;
   right: 0;
 }
 
@@ -934,7 +934,7 @@ link:focus,
 /* footer */
 .newsletter {
   background-image: linear-gradient(to right, transparent 50%, #0400ff 50%);
-  margin-bottom: -170px;
+  margin-bottom: 0px;
   position: relative;
   z-index: 1;
 }
